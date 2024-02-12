@@ -32,7 +32,7 @@
   <summary>
     학습하고 있습니다
   </summary>
-  Kotlin, Next.js
+  Python, Tensorflow, 이미지 처리를 위한 CNN
 </details>
 
 ## Blog
