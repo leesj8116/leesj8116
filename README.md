@@ -9,30 +9,30 @@
 ## Skill
 <details>
   <summary>
-    업무로 사용합니다
+    주로 다루는 도구입니다.
   </summary>
-  Java, Spring Boot (with JPA, Mybatis), MariaDB(Mysql), PostgreSQL
+  Java, Spring Boot (with JPA, Mybatis), SQL&DB(PostgreSQL, MariaDB) 
 </details>
 
 <details>
   <summary>
-    개인적으로 조금씩 했습니다
+    보조 도구로 다룬 적이 있습니다.
   </summary>
-  Typescript, React (with react-Query)
+  Typescript, React (with react-Query), PostgreSQL
 </details>
 
 <details>
   <summary>
-    과거에 배웠고, 지금은 많이 잊었습니다
+    과거에 학습했으나 실무에 적용하기 어려운 도구입니다.
   </summary>
-  C++, C#
+  C++, C#, Android
 </details>
 
 <details>
   <summary>
     학습하고 있습니다
   </summary>
-  Python, Tensorflow, 이미지 처리를 위한 CNN
+  딥러닝(Python, Tensorflow, CNN), Kotlin
 </details>
 
 ## Blog
