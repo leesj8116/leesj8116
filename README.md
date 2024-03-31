@@ -42,7 +42,7 @@
 
 ## Blog
 #### [Velog](https://velog.io/@leesj8116)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesj8116)](https://github.com/eungyeole/velog-readme-stats)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesj8116)](https://velog.io/@leesj8116)  
 
 #### [Tstory (방치)](https://solu8115.tistory.com/)
 #### [gitBlog (방치)](https://leesj8116.github.io/)
