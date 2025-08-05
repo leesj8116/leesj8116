@@ -34,13 +34,6 @@
   C++, MFC, C#, WPF, Android, OpenCV(영상처리), Kotlin, 머신러닝(Python, Tensorflow, Pytorch)
 </details>
 
-## Blog
-#### [Velog (정전)](https://velog.io/@leesj8116)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leesj8116)](https://velog.io/@leesj8116)  
-
-#### [Tstory (중단)](https://solu8115.tistory.com/)
-#### [gitBlog (중단)](https://leesj8116.github.io/)
-
 ## Github
 - leesj8116
 - [leesj8115](https://github.com/leesj8115) (미사용)
